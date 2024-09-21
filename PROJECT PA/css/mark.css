@@ -1,0 +1,51 @@
+body{
+    background-image: url(../Images/student-enroll.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.mx-auto.rounded{
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 650px;
+}
+
+.head-details{
+    display: flex;
+    gap: 10px;
+    line-height: 0% !important;
+    justify-content: center;
+    margin-block-end: 15px;
+}
+
+.head-details img{
+    width: 47px;
+    height: 47px;
+}
+
+.btn-row{
+    margin-top: 20px !important;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (max-width: 787px) {
+    .head-details{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .head-title{
+        text-align: center !important;
+    }
+}

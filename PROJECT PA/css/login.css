@@ -1,0 +1,20 @@
+body{
+    background-image: url(../Images/student-enroll.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mx-auto.rounded{
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 500px;
+}
+
+.d-flex.justify-content-end button{
+    width: 100px;
+}

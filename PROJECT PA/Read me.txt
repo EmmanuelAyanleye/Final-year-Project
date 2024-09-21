@@ -1,0 +1,45 @@
+Developed by: AYANLEYE EMMANUEL IYANUOLUWA
+
+Matric no: ESPAM/CSC/22/1005
+
+Course of Study: COMPUTER SCIENCE
+
+Institution: ESPAM-FORMATION UNIVERSITY
+
+Skill(s): UI/UX Designer (Intermediate) and Frontend Developer (Intermediate)
+
+Year of Study: 2022
+
+Project Title: DESIGN AND IMPLEMENTATION OF STUDENT ATTENDANCE MONITORING SYSTEM USING FINGERPRINT
+
+Duration: 7 months
+
+Supervised by: DR. VITOR POPOOLA
+
+Programming Language(s): HTML, CSS, JAVASCRIPT and Django
+
+Tool: PyCharm and VSCODE
+
+Teacher: ChatGPT, Copilot AI, Meta AI, YouTube, Mr. Abiodun, Ayeni Michael, Oyelowo Olayiwola, Komolafe Khadijat.
+
+Quote from supervisor: DON'T WORRY, WE'LL WORK TOGETHER.
+
+
+ 
+CLASS OF 2025!!!
+
+
+
+
+
+!!!STOP READING IT!!!
+- content
+- School details
+Finish the footer
+
+
+
+LOGIN PAGE
+Add the mark attendance button
+
+Create the attendance marking page
